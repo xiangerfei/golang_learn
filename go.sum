@@ -1,0 +1,4 @@
+github.com/grd/statistics v0.0.0-20130405091615-5af75da930c9 h1:VgcBlcf+gxSR6+X8PerbepV9x+WZV0f4K+SYVYCmk+U=
+github.com/grd/statistics v0.0.0-20130405091615-5af75da930c9/go.mod h1:0I4YW+/RI/5xLC4FZzEQuaSMK5DW8GyfYIVSZ1PeC6Y=
+gonum.org/v1/gonum v0.11.0 h1:f1IJhK4Km5tBJmaiJXtk/PkL4cdVX6J+tGiM187uT5E=
+gonum.org/v1/gonum v0.11.0/go.mod h1:fSG4YDCxxUZQJ7rKsQrj0gMOg00Il0Z96/qMA4bVQhA=
