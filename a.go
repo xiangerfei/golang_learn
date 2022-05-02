@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/grd/statistics"
+	"gofirst/go_bin/utils/string_utils"
 	"gofirst/mypath" // 这里gofirst用的是go mod init gofirst里面mod
 	"gonum.org/v1/gonum/stat"
 	"strconv"
@@ -103,5 +104,5 @@ func main() {
 	}
 	// 修改
 
-	
+
 }
